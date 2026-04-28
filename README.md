@@ -1,6 +1,6 @@
 # All Restaurants in Arkansas, US
 
-> Free BeamStation sample export with 571 rows and masked direct-contact fields.
+> Free BeamStation sample export with 711 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `295683` |
 | Location | Arkansas |
 | Category | Restaurants |
-| Full dataset size | 5,713 records |
-| Free sample size | 571 records (9.99%) |
-| Last export | 2026-04-21T10:16:10.772698+00:00 |
+| Full dataset size | 7,117 records |
+| Free sample size | 711 records (9.99%) |
+| Last export | 2026-04-28T10:26:57.373809+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-arkansas-us-sample-295683/releases/download/sample-latest/beamstation_295683_restaurants-us-ar_SAMPLE_DIST.csv) |
 
 ## What is in this sample
