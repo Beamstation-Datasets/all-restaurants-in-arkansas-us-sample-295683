@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4ba05c71-66fd-4c62-a508-2120f81c5a1d",
+  "export_job_id": "c3802b93-bb50-4f99-8a98-511d79114fd9",
   "id_short": 295683,
-  "published_at": "2026-04-28T19:07:22Z",
+  "published_at": "2026-05-05T19:06:28Z",
   "repo_name": "all-restaurants-in-arkansas-us-sample-295683",
   "sample_asset_name": "beamstation_295683_restaurants-us-ar_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/295683/beamstation_295683_restaurants-us-ar_SAMPLE_DIST.csv",
-  "sample_records": 711,
-  "sample_sha256": "f4821c78a75db8d6664999fc033239824e842afc86f9a3167be94bdf67f84ff7",
-  "sample_size_bytes": 2074531,
-  "total_records": 7117
+  "sample_records": 781,
+  "sample_sha256": "f80f133e3cf5c59626d703fe71f999c6148bd9b33c40af2db669654b9e58bd0a",
+  "sample_size_bytes": 2204029,
+  "total_records": 7815
 }
